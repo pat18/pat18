@@ -11,8 +11,6 @@
 
 📚 I'm committed to continuous improvement and staying updated with the latest industry trends and best practices. Whether it's through building projects, engaging with communities, or seeking mentorship, I'm dedicated to expanding my knowledge and expertise.
 
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **pat18/pat18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
