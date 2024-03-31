@@ -1,4 +1,3 @@
-### Hi there 👋
 👋 Hey there! I'm Saul, a Junior Web Developer with a passion for crafting delightful digital experiences. Currently, I'm on a journey to transition into a Full-Stack Developer role, driven by a desire to elevate my skills, enhance my professional profile, and grow personally.
 
 🚀 My goal is clear: to become a versatile Full-Stack Developer capable of building robust, scalable web applications from end to end. I'm aware that this path requires continuous learning and the acquisition of a diverse set of skills.
